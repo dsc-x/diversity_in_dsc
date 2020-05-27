@@ -1,0 +1,116 @@
+[
+    {
+        "displayPicture":"./assets/img/team/bratin.png",
+        "id": 1,
+        "name":"Bratin Kundu",
+        "description":"DSC UVPCE",
+        "links":[
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/BratinKundu"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/bratin-kundu-449954170/"
+            }
+        ]
+    },
+    {
+       
+        "displayPicture":"./assets/img/team/kautuk.png",
+        "id": 2,
+        "name":"Kautuk Kundan",
+        "description":"DSC BVP",
+        "links":[
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/kautukkundan?lang=en"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kautuk-kundan/"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/amey.png",
+        "id": 3,
+        "name":"Amey Nerkar",
+        "description":"DSC MITAOE",
+        "links":[
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/ameyinvent?lang=en"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ameyinvent/?originalSubdomain=in"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/shuvam.png",
+        "id": 4,
+        "name":"Shuvam Manna",
+        "description":"DSC HIT",
+        "links":[
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/shuvam360"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/shuvam-manna/?originalSubdomain=in"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/samarth.jpg",
+        "id": 5,
+        "name":"Samarth Nayyar",
+        "description":"DSC VIT",
+        "links":[
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/samarthdesigns?lang=en"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/samarth-nayyar-20816711b/?originalSubdomain=in"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/swati.png",
+        "id": 6,
+        "name":"Swati Singh",
+        "description":"DSC Amity",
+        "links":[
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/swatisingh24_1"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/swatisingh24/?originalSubdomain=in"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/kavin.png",
+        "id": 7,
+        "name":"Kavin Raju S",
+        "description":"DSC SASTRA",
+        "links":[
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/kavinrajus"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kavinraju/?originalSubdomain=in"
+            }
+        ]
+    }
+   
+]
